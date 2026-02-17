@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 c7250a9d0e668547d9db188a248cd47da9dca789 “surjeet” <“surjeetjothi@gmail.com”> 1770531069 +0530	commit (initial): Migrate static app to Next.js public folder and add route
+c7250a9d0e668547d9db188a248cd47da9dca789 0000000000000000000000000000000000000000 “surjeet” <“surjeetjothi@gmail.com”> 1770531069 +0530	Branch: renamed refs/heads/main to refs/heads/main
+c7250a9d0e668547d9db188a248cd47da9dca789 c7250a9d0e668547d9db188a248cd47da9dca789 “surjeet” <“surjeetjothi@gmail.com”> 1770531069 +0530	Branch: renamed refs/heads/main to refs/heads/main
+c7250a9d0e668547d9db188a248cd47da9dca789 9bfaa7c4999778519b9ae7ec4dad765d8f69eb47 “surjeet” <“surjeetjothi@gmail.com”> 1770531137 +0530	commit (amend): Migrate static app to Next.js public folder and add route
+9bfaa7c4999778519b9ae7ec4dad765d8f69eb47 d63fab09ab9dfd4541e32318135cb42dbc3418fe “surjeet” <“surjeetjothi@gmail.com”> 1770531201 +0530	commit (amend): Migrate static app to Next.js public folder and add route
+d63fab09ab9dfd4541e32318135cb42dbc3418fe 890fc09fe12aa35d654435d187edf595b67779d4 “surjeet” <“surjeetjothi@gmail.com”> 1770532091 +0530	commit: Clean up static_app folder: remove config files and move README
+890fc09fe12aa35d654435d187edf595b67779d4 76aae55cd4e3220f54f5482c27bd23f970ef8644 “surjeet” <“surjeetjothi@gmail.com”> 1770533185 +0530	commit: Exclude static_app from TypeScript build
+76aae55cd4e3220f54f5482c27bd23f970ef8644 1708a756b0cd7b7722715dce58ed3fa62f841d4e “surjeet” <“surjeetjothi@gmail.com”> 1770533534 +0530	commit: Remove static_app script.ts to stop TypeScript build errors
