@@ -1,8 +1,0 @@
-0000000000000000000000000000000000000000 b63d1d7d9f5120a7d17ae4841aca813283b79915 “surjeet” <“surjeetjothi@gmail.com”> 1770726745 +0530	commit (initial): Initial frontend
-b63d1d7d9f5120a7d17ae4841aca813283b79915 3c0a9f15b3d827f145e4a1843b27dbb1996e792a “surjeet” <“surjeetjothi@gmail.com”> 1770727493 +0530	commit (merge): Merge remote-tracking branch 'origin/main'
-3c0a9f15b3d827f145e4a1843b27dbb1996e792a fd93b80b65f1b25d210e1929cb88f476f4c11ea2 “surjeet” <“surjeetjothi@gmail.com”> 1770729255 +0530	commit: Update PROD_API_DEFAULT to new backend URL
-fd93b80b65f1b25d210e1929cb88f476f4c11ea2 7ac4b3ab7e9587dad30d778bde856aa873547215 “surjeet” <“surjeetjothi@gmail.com”> 1770729295 +0530	commit (amend): Update PROD_API_DEFAULT to new backend URL
-7ac4b3ab7e9587dad30d778bde856aa873547215 0000000000000000000000000000000000000000 “surjeet” <“surjeetjothi@gmail.com”> 1770742260 +0530	Branch: renamed refs/heads/main to refs/heads/main
-7ac4b3ab7e9587dad30d778bde856aa873547215 7ac4b3ab7e9587dad30d778bde856aa873547215 “surjeet” <“surjeetjothi@gmail.com”> 1770742260 +0530	Branch: renamed refs/heads/main to refs/heads/main
-7ac4b3ab7e9587dad30d778bde856aa873547215 aec87c34256b2bb8999db521de2269662c4c21e7 “surjeet” <“surjeetjothi@gmail.com”> 1770742302 +0530	commit: Update index.html with new changes
-aec87c34256b2bb8999db521de2269662c4c21e7 0326e09839848e191f98c5fa0e4fa0af0756b2b8 “surjeet” <“surjeetjothi@gmail.com”> 1770909298 +0530	commit: Frontend Update
